@@ -25,7 +25,9 @@ Nov 2, 2026 · Data Storytelling with Adobe Express
 
 Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace 211 non-contactless cards more than 12 months from expiration for $1,688, prioritizing the cards that would otherwise wait the longest for scheduled replacement.
 
-[https://github.com/matteoberenger/Data-Visualization-Portfolio/blob/main/adobe/berenger-data-storytelling.pdf][https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:abec0c2f-3648-5db6-9d90-9519ac7f65e1?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other]
+[https://github.com/matteoberenger/Data-Visualization-Portfolio/blob/main/adobe/berenger-data-storytelling.pdf]
+
+[https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:abec0c2f-3648-5db6-9d90-9519ac7f65e1?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other]
 
 Design choice: I used a three-bar comparison showing the average months until scheduled replacement because Renee needs to quickly see why the 12+ month group should be prioritized. I highlighted the recommended 211-card batch and removed unnecessary portfolio-level details, such as card type and state breakdowns, so the reader can focus on the replacement timing, number of cards, and $1,688 cost.
 Training completed: 10/28/2026
