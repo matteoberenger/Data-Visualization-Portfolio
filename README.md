@@ -26,8 +26,19 @@ Nov 2, 2026 · Data Storytelling with Adobe Express
 Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace 211 non-contactless cards more than 12 months from expiration for $1,688, prioritizing the cards that would otherwise wait the longest for scheduled replacement.
 
 [https://github.com/matteoberenger/Data-Visualization-Portfolio/blob/main/adobe/berenger-data-storytelling.pdf]
-
 [https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:abec0c2f-3648-5db6-9d90-9519ac7f65e1?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other]
 
 Design choice: I used a three-bar comparison showing the average months until scheduled replacement because Renee needs to quickly see why the 12+ month group should be prioritized. I highlighted the recommended 211-card batch and removed unnecessary portfolio-level details, such as card type and state breakdowns, so the reader can focus on the replacement timing, number of cards, and $1,688 cost.
 Training completed: 10/28/2026
+
+November 23, 2026 · Brand Standards Application in Tableau
+
+Rebranded an interactive IMDb movie dashboard and developed an analysis for Advertiser Partnerships to determine whether family-friendly movies generate enough audience engagement to justify a dedicated advertising package.
+
+Key Finding: Family-friendly movies received 81% more average audience votes per title than R-rated films (69,084 vs. 38,144), supporting the recommendation to launch a dedicated family-friendly advertising package.
+
+Tableau Workbook: [https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17954632084950/DataMoviesIMDBDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+
+One Thing I'd Change: I would further refine the rating comparison by using a dot plot instead of bars to emphasize the small difference in average IMDb ratings.
+
+AI Use: ChatGPT assisted with visualization design and  Tableau formatting guidance. Calculations and findings were reviewed in Tableau.
