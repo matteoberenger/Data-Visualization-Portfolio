@@ -37,7 +37,7 @@ Rebranded an interactive IMDb movie dashboard and developed an analysis for Adve
 
 Key Finding: Family-friendly movies received 81% more average audience votes per title than R-rated films (69,084 vs. 38,144), supporting the recommendation to launch a dedicated family-friendly advertising package.
 
-Tableau Workbook: [https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17954632084950/DataMoviesIMDBDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+Tableau Workbook: [https://public.tableau.com/app/profile/matteo.berenger/viz/DataPlusMovies2000-2023_17954632084950/DataMoviesIMDBDashboard?publish=yes]
 
 One Thing I'd Change: I would further refine the rating comparison by using a dot plot instead of bars to emphasize the small difference in average IMDb ratings.
 
